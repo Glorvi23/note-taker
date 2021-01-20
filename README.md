@@ -12,6 +12,7 @@ The goal is for this project is to be able to make a note and save it to a file.
 You need to first install vscode, create a github account, and download git bash for windows. Run “git clone” in git bash to initialize the repository on your computer. Finally, cd into the repository and type “code .” to open it in vscode.
 ## Usage
 ![note-taker](public/assets/images/note-taker.png)
+![note-taker](public/assets/images/note-taker-notes.png)
 ## Credits
 The following people/sites helped contribute to the project.
 - [Markdown License badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
